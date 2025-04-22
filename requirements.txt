@@ -1,0 +1,6 @@
+deap==1.4.1
+numpy~=1.26.4
+numba==0.61.2
+pytest==8.3.5
+scikit-optimize==0.10.2 
+filelock==3.18.0
